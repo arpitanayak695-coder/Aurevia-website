@@ -7,7 +7,7 @@ document.getElementById('year').textContent = new Date().getFullYear();
    default port, this will work out of the box. Change it if
    you deploy the backend somewhere else.
 --------------------------------------------------------- */
-const API_BASE = 'http://localhost:5000';
+const API_BASE = 'https://aurevia-website-m6fa.vercel.app';
 
 /* ---------------------------------------------------------
    Mobile navigation
